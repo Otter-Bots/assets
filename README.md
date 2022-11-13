@@ -1,2 +1,2 @@
 # assets
-Shared assets across projects
+Shared assets across projects.
