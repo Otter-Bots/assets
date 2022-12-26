@@ -1,2 +1,2 @@
 # Assets
-Shared assets across projects.
+Shared assets across connected projects.
